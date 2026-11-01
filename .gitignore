@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+
+# Next.js
+.next/
+frontend/.next/
+out/
+frontend/out/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+ENV/
+
+# Environment
+.env
+.env*.local
+frontend/.env.local
+frontend/.env*.local
+
+# Data uploads
+data/uploaded.csv
+
+# OS
+.DS_Store
+Thumbs.db
